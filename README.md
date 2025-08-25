@@ -18,13 +18,13 @@ This project dives into the world of Uber data analytics using modern data engin
 
 **Modern data Pipeline Tool:** https://www.mage.ai/
 
-**Contribute to this project here:** https://github.com/mage-ai/mage-ai
+
 
 ## Dataset Used
 TLC Trip Record Data
 Yellow and green taxi trip records include fields capturing pick-up and drop-off dates/times, pick-up and drop-off locations, trip distances, itemized fares, rate types, payment types, and driver-reported passenger counts. 
 
-Here is the dataset used in the video - https://github.com/darshilparmar/uber-data-engineering-mage-project/blob/main/data/uber_data.csv
+Here is the dataset used in the video - https://github.com/sirishaa03/Uber-Data-Analytics/blob/main/data/uber_data.csv
 
 ### More Info About Dataset
 1. Original Data Source - https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
@@ -39,6 +39,5 @@ Here is the dataset used in the video - https://github.com/darshilparmar/uber-da
 3. [Transform Python File](mage-files/transform.py)
 
 
-## Complete Video Tutorial
-Video Link - https://www.youtube.com/watch?v=WpQECq5Hx9g
+
 
